@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PersistenciaSQLit</string>
+    <string name="digite_o_nome_do_contato">Digite o nome do contato:</string>
+    <string name="salvar">salvar</string>
+    <string name="novo_contato">Novo Contato</string>
+    <string name="contato_salvo_com_sucesso">Contato salvo com sucesso</string>
+</resources>
